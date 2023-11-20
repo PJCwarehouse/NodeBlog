@@ -93,7 +93,7 @@ function task() {
 					console.log('成立时间:', EstablishmentTime);
 
 					//爬取单位净值
-					UnitNet = $('.shouyi-b.b1 .cGreen').text().trim();
+					UnitNet = $('.shouyi-b.b1 .cRed').text().trim();
 					console.log('单位净值:', UnitNet);
 					
 					//爬取基金经理

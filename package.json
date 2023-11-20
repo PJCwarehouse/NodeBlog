@@ -8,6 +8,7 @@
     "body-parser": "^1.15.2",
     "cheerio": "^1.0.0-rc.12",
     "crypto": "0.0.3",
+    "dotenv": "^16.3.1",
     "ejs": "^3.1.8",
     "express": "^4.14.0",
     "express-session": "^1.14.2",
